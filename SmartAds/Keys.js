@@ -1,0 +1,2 @@
+exports.CLIENT_ID = 'LqwpKKRa-DPO_oCzw7v0FWR25Isg2I2LXPTnNf9S';
+exports.CLIENT_SECRET = 'thKbQy5rhUdIsV3QKIQEVQGaVKzjfsnvlahe2H9T';
